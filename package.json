@@ -8,9 +8,16 @@
     "build": "turbo run build"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.10",
+    "@radix-ui/react-avatar": "^1.0.3",
+    "@radix-ui/react-checkbox": "^1.0.4",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   },
   "devDependencies": {
+    "@rocketseat/eslint-config": "^2.0.1",
+    "@storybook/addon-docs": "^7.0.27",
+    "eslint": "^8.45.0",
     "turbo": "^1.10.7"
   }
 }
